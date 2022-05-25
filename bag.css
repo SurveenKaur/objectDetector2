@@ -1,0 +1,20 @@
+body{
+    background-size: contain;
+}
+
+.back{
+    color: rgb(47, 208, 230);
+    background-color: brown;
+    font-size: 30px;
+}
+
+#heading{
+    font-size: 30px;
+}
+
+canvas{
+box-shadow: 10px 10px 10px grey;
+border-radius: 10px;
+margin-top: 50px;
+}
+    
